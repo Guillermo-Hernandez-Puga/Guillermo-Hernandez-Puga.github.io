@@ -5,7 +5,7 @@ body {
   /* Hero Section */
   
   #Hero-Section {
-    background-image: url("../img/Guillermo.jpeg");
+  
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
@@ -28,9 +28,7 @@ body {
    background-position: center;
   
  }
- .img{
-    background-image: url(../img/Dimacofi2.png);
-    }
+ 
  
  /* Contacto */
  
